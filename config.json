@@ -1,0 +1,26 @@
+{
+    "bot": {
+        "token": "",
+        "id": "",
+        "secret": "",
+        "admins": [
+            "BOT_ADMIN_IDS"
+        ],
+        "ownerId": "OWNER_ID",
+        "developerCommandsServerIds": [
+            "ONLY_DEV_COMMANDS_SERVER_IDS"
+        ]
+    },
+    "database": {
+        "mongodbUrl": ""
+    },
+    "logging": {
+        "guildJoinLogsId": "",
+        "guildLeaveLogsId": "",
+        "commandLogsChannelId": "",
+        "errorLogs": "webhook_url"
+    },
+    "prefix": {
+        "value": ""
+    }
+}
